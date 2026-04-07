@@ -1,0 +1,17 @@
+/* --- EXPERIMENT 22 MODULE STYLES --- */
+.exp22ModuleCard {
+  background-color: #064e3b;
+  border: 2px solid #059669;
+  padding: 24px;
+  border-radius: 16px;
+  text-align: center;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.exp22ModuleTitle {
+  color: #a7f3d0;
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
